@@ -1,3 +1,7 @@
 hello guys there
 
+<<<<<<< HEAD
 come on guys 🤩
+=======
+This is good but you have to think about it 🙄
+>>>>>>> aa723e419910a771ff1758141dc0b274222dee03
